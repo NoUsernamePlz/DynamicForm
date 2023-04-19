@@ -8,7 +8,7 @@ function ToggleButton({ id }) {
   }
 
   return (
-    <div className="relative inline-block w-10 align-middle select-none">
+    <div className="relative  inline-block w-10 align-middle select-none">
       <input
         type="checkbox"
         name={id}
